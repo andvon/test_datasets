@@ -1,3 +1,3 @@
 id,group,fastq_1,fastq_2
-ENCFF037QRA_subset,CTCF,fastq/ENCFF037QRA_subset.fastq.gz,
-ENCFF869TVW_subset,CTCF,fastq/ENCFF869TVW_subset.fastq.gz,
+ENCFF037QRA_subset,CTCF,https://raw.githubusercontent.com/andvon/test_datasets/nf-encode-chip/data/fastq/ENCFF037QRA_subset.fastq.gz,
+ENCFF869TVW_subset,CTCF,https://raw.githubusercontent.com/andvon/test_datasets/nf-encode-chip/data/fastq/ENCFF869TVW_subset.fastq.gz,
