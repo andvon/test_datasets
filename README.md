@@ -1,3 +1,4 @@
-# Test Datasets
+## ChIP-seq dataset
 
-These are small datasets that are used for testing different utilities.
+TODO: Add a description of the ChIP-seq datasets here.
+TODO: Add source of the datasets here.
