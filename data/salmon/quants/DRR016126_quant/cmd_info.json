@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.4.0",
+    "index": "athal_index",
+    "libType": "A",
+    "mates1": "DRR016126/DRR016126_1.fastq.gz",
+    "mates2": "DRR016126/DRR016126_2.fastq.gz",
+    "threads": "8",
+    "validateMappings": [],
+    "output": "quants/DRR016126_quant",
+    "auxDir": "aux_info"
+}
